@@ -82,7 +82,7 @@ Le dépôt Git de ce cours doit servir de modèle de structuration de données e
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThomasVendramini/Analyse_Non_Numerique/main)
 
-[Launch Voilà](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.huma-num.fr%2Fmnauge%2Fcnam-athon-pronunciation/HEAD?urlpath=voila%2Frender%2Fnotebook%2Fprenom_nom_App.ipynb)
+[Launch Voilà](https://mybinder.org/v2/gh/ThomasVendramini/Analyse_Non_Numerique/main?urlpath=voila%2Frender%2Fnotebook%2Fthomas_vendramini_App.ipynb)
 
 
 
